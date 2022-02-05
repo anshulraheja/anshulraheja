@@ -3,10 +3,9 @@
 - I'm frontend web developer 
 - I work mainly on React 
 - I also have experience in JS and Nodejs
-- **Open for frontend opportunities**
 
-:computer: Previously: 
-- I worked with Newgen Software as a Software Engineer for 1.5 years 
+:computer: 
+- I'm currecnlty working as SDE 1 (Frontend) at LEAD School  
 
 ### :notebook_with_decorative_cover: Tech Articles 
 Find my tech articles [here](https://dev.to/anshulraheja)
