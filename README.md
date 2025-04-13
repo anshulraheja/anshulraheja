@@ -1,21 +1,49 @@
-## :wave: Hi I'm Anshul  
+## 👋 Hi, I'm Anshul Raheja
 
-- I'm frontend web developer 
-- I work mainly on React 
-- I also have experience in JS and Nodejs
+🚀 Frontend Developer | 💻 React & Angular Enthusiast | 🧠 Always Learning
 
-:computer: 
-- I'm currecnlty working as SDE 1 (Frontend) at LEAD School  
+I'm a frontend developer with 4+ years of experience building scalable, user-centric web applications used by millions. My work focuses on performance, security, and smooth user experiences. Currently, I'm working at **Airtel Payments Bank** as an **SDE-2 (Frontend)**, building secure digital banking experiences for 1.5L+ retailers across India.
 
-### :notebook_with_decorative_cover: Tech Articles 
-Find my tech articles [here](https://dev.to/anshulraheja)
+### 🛠️ Tech Stack
 
-### Connect with me: 
-[![Anshul | Linkedin](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/anshul-raheja/)
-[![Anshul | Twitter](https://camo.githubusercontent.com/938a5ddeca5aa917994fcdd63184a2de318a74073a336e7cd483a3e22ffbfdd0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3030414345453f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/anshulrahejaa)
+- **Languages:** JavaScript, TypeScript, HTML, CSS, SASS
+- **Frameworks & Libraries:** React, Angular, Redux, Next.js
+- **Tools:** Git, VSCode, Postman, Chrome DevTools
+- **Testing:** Jest
+- **Others:** Responsive Design, Performance Optimization, API Integration
 
+---
 
-## Github Stats
-[![Anshul Raheja Stats](https://github-readme-stats.vercel.app/api?username=anshulraheja)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 Notable Work
 
+- 🔐 **AePS Web App** – Built Aadhaar-based financial transaction app used by 1.5L+ retailers with features like biometric/face authentication and geo-fencing to reduce fraud.
+- 📈 **LEAD School Assessment Platform** – Helped 5,000+ educators generate question papers and manage learning outcomes more efficiently.
+- 📦 **Order & Pricing Tools** – Created internal tools to streamline operations and boost team productivity.
+- 💬 **Social Media & E-commerce Projects** – Built hobby projects using React, Redux, and Context API to explore design patterns and full-stack integration.
+
+---
+
+### ✍️ Tech Articles
+
+I love sharing what I learn. You can find my articles here:  
+👉 [dev.to/anshulraheja](https://dev.to/anshulraheja)
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-raheja/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anshulrahejaa)
+
+---
+
+### 📊 GitHub Stats
+
+[![Anshul Raheja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulraheja&show_icons=true&theme=radical)](https://github.com/anshulraheja)
+
+---
+
+### ⚡ Fun Fact
+
+I'm currently exploring better ways to write clean, maintainable React code while also learning more about performance profiling and developer experience improvements.
 
