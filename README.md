@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anshul Raheja
 
-🚀 Frontend Developer | 💻 React & Angular Enthusiast | 🧠 Always Learning
+🚀 Frontend Developer | 💻 React & JavaScript Enthusiast | 🧠 Always Learning
 
 I'm a frontend developer with 4+ years of experience building scalable, user-centric web applications used by millions. My work focuses on performance, security, and smooth user experiences. Currently, I'm working at **Airtel Payments Bank** as an **SDE-2 (Frontend)**, building secure digital banking experiences for 1.5L+ retailers across India.
 
@@ -41,9 +41,13 @@ I love sharing what I learn. You can find my articles here:
 
 [![Anshul Raheja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulraheja&show_icons=true&theme=radical)](https://github.com/anshulraheja)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulraheja&layout=compact&theme=radical)](https://github.com/anshulraheja)
+
 ---
 
 ### ⚡ Fun Fact
 
 I'm currently exploring better ways to write clean, maintainable React code while also learning more about performance profiling and developer experience improvements.
+My coding playlist is 70% lo-fi and 30% caffeine. And yes, I’m always up for code reviews 😄
+
 
